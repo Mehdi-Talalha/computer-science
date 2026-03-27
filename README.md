@@ -129,7 +129,7 @@ Choose **one** of the following:
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
-[CS50x introduction to Computer Science](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/CS50x-README.md) | 11 weeks | 2 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/QxC22rR)
+[CS50x introduction to Computer Science](https://github.com/ossu/computer-science/blob/master/coursepages/coursepages/intro-cs/CS50x-README.md) | 11 weeks | 2 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/QxC22rR)
 
 
 
