@@ -124,9 +124,14 @@ This course will introduce you to the world of computer science and programming.
 `basic data structures and algorithms`
 `and more`
 
+Choose **one** of the following:
+
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/jvchSm9)
+[CS50x introduction to Computer Science](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/CS50x-README.md) | 11 weeks | 2 hours/week | [high school algebra](https://ossu.dev/precollege-math) | [chat](https://discord.gg/QxC22rR)
+
+
 
 ## Core CS
 
